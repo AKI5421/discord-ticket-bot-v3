@@ -1,6 +1,6 @@
 {
-  "TOKEN": "TOKEN",
-  "guildID": "ID",
+  "TOKEN": "",
+  "guildID": "1218548456331808878",
   "dashboard": {
     "username": "wick",
     "password": "wick123",
@@ -8,9 +8,9 @@
   },
   "BACKGROUND": "",
   "LINE": "",
-  "categoryID": "",
-  "logChannel": "",
-  "feedbackLogChannel": "",
+  "categoryID": "1343914318218919966",
+  "logChannel": "1373341586850713622",
+  "feedbackLogChannel": "1373341586850713622",
   "language": "ar",
   "sectionType": "list",
   "optionConfig": {},
